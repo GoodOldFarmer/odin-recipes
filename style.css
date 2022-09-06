@@ -1,0 +1,15 @@
+
+*{
+    padding: 10;
+    border: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+
+p{
+    max-width: 80vw;
+}
+
